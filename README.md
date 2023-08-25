@@ -11,9 +11,12 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
-- [Steps to add yourself to the contributers list]()
+- [Steps to add yourself to the contributers list](https://github.com/CypherPunk-git/First-Contribution-in-Open-Scource/blob/main/CONTRIBUTING.md)
 
 <p align="center">
+    <a href="https://cypher-punk.web.app/">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/128/8293/8293577.png" />
+    </a>
      <a href="https://twitter.com/Cypherpunk_comm">
         <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
      </a>
@@ -22,10 +25,33 @@
      </a>
      <a href="https://www.instagram.com/cypherpunk.community/">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-     </a>
+    </a>
+    </a>
 </p>
     <p align="center">
      <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
     </p>
+    <p align="center" font-size="11">
+      Welcome to Opne Source
+    </p>
 
 
+## Contributors :
+
+<!-- Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+    <tbody>
+        <tr>
+       <td align="center">
+        <a href="https://github.com/akshitvadher">
+            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;" alt="Akshit Vadher"/>
+            <br />
+            <sub><b>Akshit Vadher</b></sub>
+        </a>
+       </td>
+        </tr>
+    </tbody>
+</table>
