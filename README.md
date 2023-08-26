@@ -46,10 +46,10 @@
     <tbody>
         <tr>
        <td align="center">
-        <a href="https://github.com/akshitvadher">
-            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;" alt="Akshit Vadher"/>
+        <a href="https://github.com/rutvinavadiya24">
+            <img src="https://avatars.githubusercontent.com/u/143237304?v=4" width="100px;" alt="rutvi"/>
             <br />
-            <sub><b>Akshit Vadher</b></sub>
+            <sub><b>rutvi_navadiya</b></sub>
         </a>
        </td>
         </tr>
