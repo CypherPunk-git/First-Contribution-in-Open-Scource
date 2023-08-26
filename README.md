@@ -45,11 +45,12 @@
 <table>
     <tbody>
         <tr>
-       <td align="center">
-        <a href="https://github.com/akshitvadher">
-            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;" alt="Akshit Vadher"/>
+       
+        <td align="center">
+        <a href="https://github.com/didishasheth12345">
+            <img src="https://avatars.githubusercontent.com/u/143238369?v=4" width="100px;" alt="Disha Sheth"/>
             <br />
-            <sub><b>Akshit Vadher</b></sub>
+            <sub><b>Disha Sheth </b></sub>
         </a>
        </td>
         </tr>
