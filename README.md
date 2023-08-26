@@ -49,7 +49,7 @@
         <a href="https://github.com/ayushipatel159r">
             <img src="https://avatars.githubusercontent.com/u/143238271?v=4" width="100px;" alt="Akshit Vadher"/>
             <br />
-            <sub><b>a</b></sub>
+            <sub><b>ayushi</b></sub>
         </a>
        </td>
         </tr>
