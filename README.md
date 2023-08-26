@@ -46,10 +46,10 @@
     <tbody>
         <tr>
        <td align="center">
-        <a href="https://github.com/akshitvadher">
-            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;" alt="Akshit Vadher"/>
+        <a href="https://github.com/uzmasadeki/First-Contribution-in-Open-Scource/edit/main/README.md">
+            <img src="https://avatars.githubusercontent.com/u/143238061?v=4" width="100px;" alt="Akshit Vadher"/>
             <br />
-            <sub><b>Akshit Vadher</b></sub>
+            <sub><b>uzma sadeki</b></sub>
         </a>
        </td>
         </tr>
