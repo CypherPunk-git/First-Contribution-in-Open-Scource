@@ -52,6 +52,13 @@
             <sub><b>Akshit Vadher</b></sub>
         </a>
        </td>
+        <td align="center">
+        <a href="https://github.com/didishasheth12345">
+            <img src="https://avatars.githubusercontent.com/u/143238369?v=4" width="100px;" alt="Disha Sheth"/>
+            <br />
+            <sub><b>Disha Sheth </b></sub>
+        </a>
+       </td>
         </tr>
     </tbody>
 </table>
