@@ -47,7 +47,7 @@
         <tr>
        
         <td align="center">
-        <a href="https://github.com/didishasheth12345">
+        <a href="https://github.com/dishasheth12345">
             <img src="https://avatars.githubusercontent.com/u/143238369?v=4" width="100px;" alt="Disha Sheth"/>
             <br />
             <sub><b>Disha Sheth </b></sub>
