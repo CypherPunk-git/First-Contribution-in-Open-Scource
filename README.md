@@ -47,7 +47,7 @@
         <tr>
        <td align="center">
         <a href="https://github.com/priya9988">
-            <img src="https://avatars.githubusercontent.com/u/143238405?v=4" width="100px;" alt="Akshit Vadher"/>
+            <img src="https://avatars.githubusercontent.com/u/143238405?v=4" width="100px;" alt="Priya Yadav"/>
             <br />
             <sub><b>Priya Yadav</b></sub>
         </a>
