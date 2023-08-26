@@ -52,6 +52,13 @@
             <sub><b>Akshit Vadher</b></sub>
         </a>
        </td>
+        <td align="center">
+        <a href="https://github.com/akshitvadher](https://github.com/RishitaParmar">
+            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;" alt="Akshit Vadher](https://avatars.githubusercontent.com/u/143238574?v=4"/>
+            <br />
+            <sub><b>Rishita Parmar</b></sub>
+        </a>
+       </td>
         </tr>
     </tbody>
 </table>
