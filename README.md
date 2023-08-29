@@ -45,13 +45,27 @@
 <table>
     <tbody>
         <tr>
-       <td align="center">
-        <a href="https://github.com/akshitvadher">
-            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;" alt="Akshit Vadher"/>
-            <br />
-            <sub><b>Akshit Vadher</b></sub>
-        </a>
-       </td>
+       		    <td align="center">
+		                      <a href="https://github.com/akshitvadher">
+        	   	            <img src="https://avatars.githubusercontent.com/u/122861906?v=4" width="100px;"/>
+        	   	            <br />
+        		              <sub><b>Akshit Vadher</b></sub>
+       		                </a>
+     		        </td>
+               <td align="center">
+                          <a href="https://github.com/trupti1063">
+                          <img src="https://avatars.githubusercontent.com/u/143238374?v=4" width="100px;" />
+                          <br />
+                          <sub><b>Trupti</b></sub>
+                          </a>
+               </td>
+               <td align="center">
+                          <a href="https://github.com/dishasheth12345">
+                          <img src="https://avatars.githubusercontent.com/u/143238369?v=4" width="100px;" />
+                          <br />
+                          <sub><b>Disha Sheth</b></sub>
+                          </a>
+               </td>
         </tr>
     </tbody>
 </table>
