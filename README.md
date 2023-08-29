@@ -66,6 +66,13 @@
                           <sub><b>Disha Sheth</b></sub>
                           </a>
                </td>
+		<td align="center">
+		            <a href="https://github.com/VinitMehta28">
+		            <img src="https://avatars.githubusercontent.com/u/96309635?v=4" width="100px;"/>
+		            <br />
+		            <sub><b> Vinit Mehta</b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
