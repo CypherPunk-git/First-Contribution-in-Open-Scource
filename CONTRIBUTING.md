@@ -13,7 +13,7 @@
 5) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
 
-    ```
+```
 <td align="center">
 		            <a href="  --github profile url--  ">
 		            <img src="  --image url --  " width="100px;"/>
@@ -21,7 +21,7 @@
 		            <sub><b>  --your Name--  </b></sub>
 		            </a>
 		</td>
-    ```
+```
     
 6) After that  click on `Commit changes ` directly to the main branch.
 
