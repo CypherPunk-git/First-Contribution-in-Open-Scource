@@ -73,6 +73,13 @@
 		            <sub><b> Vinit Mehta</b></sub>
 		            </a>
 		</td>
+		<td align="center">
+		            <a href="https://github.com/blacklion0">
+		            <img src="https://avatars.githubusercontent.com/u/115477297?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>Divyesh Thakar</b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
