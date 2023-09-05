@@ -80,6 +80,13 @@
 		            <sub><b>Divyesh Thakar</b></sub>
 		            </a>
 		</td>
+		<td align="center">
+		            <a href="https://github.com/dhavalashara">
+		            <img src="https://avatars.githubusercontent.com/u/141735381?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Dhaval Ashara  </b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
