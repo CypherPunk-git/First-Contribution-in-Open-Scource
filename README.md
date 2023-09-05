@@ -66,27 +66,35 @@
                           <sub><b>Disha Sheth</b></sub>
                           </a>
                </td>
-		<td align="center">
-		            <a href="https://github.com/VinitMehta28">
-		            <img src="https://avatars.githubusercontent.com/u/96309635?v=4" width="100px;"/>
-		            <br />
-		            <sub><b> Vinit Mehta</b></sub>
-		            </a>
-		</td>
-		<td align="center">
-		            <a href="https://github.com/blacklion0">
-		            <img src="https://avatars.githubusercontent.com/u/115477297?v=4" width="100px;"/>
-		            <br />
-		            <sub><b>Divyesh Thakar</b></sub>
-		            </a>
-		</td>
-		<td align="center">
-		            <a href="https://github.com/dhavalashara">
-		            <img src="https://avatars.githubusercontent.com/u/141735381?v=4" width="100px;"/>
-		            <br />
-		            <sub><b>  Dhaval Ashara  </b></sub>
-		            </a>
-		</td>
+		           <td align="center">
+
+		                      <a href="https://github.com/Abhay-Vachhani/">
+		                      <img src="https://avatars.githubusercontent.com/u/84565477?v=4" width="100px;"/>
+		                      <br />
+		                      <sub><b>Abhay Vachhani</b></sub>
+                          </a>
+               </td>
+               <td align="center">
+                          <a href="https://github.com/VinitMehta28">
+                          <img src="https://avatars.githubusercontent.com/u/96309635?v=4" width="100px;"/>
+                          <br />
+                          <sub><b> Vinit Mehta</b></sub>
+                          </a>
+              </td>
+              <td align="center">
+                          <a href="https://github.com/blacklion0">
+                          <img src="https://avatars.githubusercontent.com/u/115477297?v=4" width="100px;"/>
+                          <br />
+                          <sub><b>Divyesh Thakar</b></sub>
+                          </a>
+              </td>
+              <td align="center">
+                          <a href="https://github.com/dhavalashara">
+                          <img src="https://avatars.githubusercontent.com/u/141735381?v=4" width="100px;"/>
+                          <br />
+                          <sub><b>  Dhaval Ashara  </b></sub>
+                          </a>
+		         </td>
         </tr>
     </tbody>
 </table>
