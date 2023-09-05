@@ -66,13 +66,12 @@
                           <sub><b>Disha Sheth</b></sub>
                           </a>
                </td>
-		           <td align="center">
-
-		                      <a href="https://github.com/Abhay-Vachhani/">
-		                      <img src="https://avatars.githubusercontent.com/u/84565477?v=4" width="100px;"/>
-		                      <br />
-		                      <sub><b>Abhay Vachhani</b></sub>
-                          </a>
+	       	   <td align="center">
+		          		 <a href="https://github.com/Abhay-Vachhani/">
+			 			 <img src="https://avatars.githubusercontent.com/u/84565477?v=4" width="100px;"/>
+		         		 <br />
+		         		 <sub><b>Abhay Vachhani</b></sub>
+                         </a>
                </td>
                <td align="center">
                           <a href="https://github.com/VinitMehta28">
@@ -94,7 +93,7 @@
                           <br />
                           <sub><b>  Dhaval Ashara  </b></sub>
                           </a>
-		         </td>
+	          </td>
         </tr>
     </tbody>
 </table>
