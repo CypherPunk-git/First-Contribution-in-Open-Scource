@@ -101,6 +101,13 @@
 		            <sub><b>  Raj Zala </b></sub>
 		            </a>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/bhaveshshah00">
+		            <img src="https://avatars.githubusercontent.com/u/144258119?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Bhavesh Shah </b></sub>
+		            </a>
+	    </td>
         </tr>
     </tbody>
 </table>
