@@ -93,7 +93,14 @@
                           <br />
                           <sub><b>  Dhaval Ashara  </b></sub>
                           </a>
-	          </td>
+	     </td>
+	     <td align="center">
+		            <a href="https://github.com/rajbhazala">
+		            <img src="https://avatars.githubusercontent.com/u/144259255?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Raj Zala </b></sub>
+		            </a>
+	    </td>
         </tr>
     </tbody>
 </table>
