@@ -107,6 +107,13 @@
 		            <br />
 		            <sub><b>  Bhavesh Shah </b></sub>
 		            </a>
+	    <td align="center">
+		            <a href="https://github.com/YashParmar0001">
+		            <img src="https://avatars.githubusercontent.com/u/100549620?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Yash Parmar  </b></sub>
+		            </a>
+	    </td>
 	    </td>
         </tr>
     </tbody>
