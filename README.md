@@ -113,6 +113,20 @@
 		            <br />
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
+		<td align="center">
+		            <a href="https://github.com/sakshi03parekh ">
+		            <img src="  --image url --  " width="100px;"/>
+		            <br />
+		            <sub><b>  sakshi parekh </b></sub>
+		            </a>
+		<td align="center">
+		            <a href=" https://github.com/sakshi03parekh  ">
+		            <img src="https://avatars.githubusercontent.com/u/144910913?v=4 " width="100px;"/>
+		            <br />
+		            <sub><b>  Sakshi parekh </b></sub>
+		            </a>
+		</td>
+		</td>
 	    </td>
 	    </td>
         </tr>
