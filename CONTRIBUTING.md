@@ -22,6 +22,13 @@
 		            </a>
 		</td>
 ```
+<td align="center">
+		            <a href="  --github profile url--  ">
+		            <img src="  --image url --  " width="100px;"/>
+		            <br />
+		            <sub><b>  --your Name--  </b></sub>
+		            </a>
+		</td>
     
 6) After that  click on `Commit changes ` directly to the main branch.
 
