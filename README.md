@@ -114,10 +114,10 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 		    <td align="center">
-		            <a href="  --https://github.com/diyanshi-jadeja--  ">
+		            <a href="  https://github.com/diyanshi-jadeja  ">
 		            <img src="  https://avatars.githubusercontent.com/u/144919690?v=4  " width="100px;"/>
 		            <br />
-		            <sub><b>  --Diyanshi Jadeja--  </b></sub>
+		            <sub><b>  Diyanshi Jadeja  </b></sub>
 		            </a>
 		</td>
 	    </td>
