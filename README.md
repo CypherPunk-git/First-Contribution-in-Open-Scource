@@ -113,6 +113,13 @@
 		            <br />
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
+		    <td align="center">
+		            <a href="https://github.com/Hemang2601">
+		            <img src="https://avatars.githubusercontent.com/u/144898904?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Hemang Lakhadiya  </b></sub>
+		            </a>
+		</td>
 	    </td>
 	    </td>
         </tr>
