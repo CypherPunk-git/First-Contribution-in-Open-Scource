@@ -121,7 +121,7 @@
 		            </a>
 		<td align="center">
 		            <a href=" https://github.com/sakshi03parekh  ">
-		            <img src=" " width="100px;"/>
+		            <img src="https://avatars.githubusercontent.com/u/144910913?v=4 " width="100px;"/>
 		            <br />
 		            <sub><b>  Sakshi parekh </b></sub>
 		            </a>
