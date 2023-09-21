@@ -115,6 +115,13 @@
 		            </a>
 	    </td>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/anandtrambadiya">
+		            <img src="https://avatars.githubusercontent.com/u/144916013?s=96&v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Anand Trambadiya  </b></sub>
+		            </a>
+	    </td>
         </tr>
     </tbody>
 </table>
