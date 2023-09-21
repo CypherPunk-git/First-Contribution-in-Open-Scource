@@ -114,7 +114,7 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 		<td align="center">
-		            <a href="  --github profile url--  ">
+		            <a href="https://github.com/sakshi03parekh ">
 		            <img src="  --image url --  " width="100px;"/>
 		            <br />
 		            <sub><b>  sakshi parekh </b></sub>
