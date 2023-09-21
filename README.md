@@ -115,7 +115,7 @@
 		            </a>
 		    <td align="center">
 		            <a href="  --https://github.com/diyanshi-jadeja--  ">
-		            <img src="  --https://avatars.githubusercontent.com/u/144919690?s=400&v=4--  " width="100px;"/>
+		            <img src="  --https://avatars.githubusercontent.com/u/144919690?v=4--  " width="100px;"/>
 		            <br />
 		            <sub><b>  --Diyanshi Jadeja--  </b></sub>
 		            </a>
