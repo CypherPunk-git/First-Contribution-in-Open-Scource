@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="  --https://github.com/googleassistance--  ">
+		            <img src="  --https://avatars.githubusercontent.com/u/145647972?s=400&v=4--  " width="100px;"/>
+		            <br />
+		            <sub><b>  --Mitanshi Sheladiya--  </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
