@@ -114,7 +114,16 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href=" https://github.com/khokhariyariddhi">
+		            <img src="https://avatars.githubusercontent.com/u/145637184?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>Riddhi Khokhariya</b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
 </table>
+
+
