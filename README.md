@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="  --https://github.com/DrashtiRanpariya--  ">
+		            <img src="  --image url --  " width="100px;"/>
+		            <br />
+		            <sub><b>  --your Name--  </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
