@@ -113,6 +113,13 @@
 		            <br />
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
+		    <td align="center">
+		            <a href="  --https://github.com/diyanshi-jadeja--  ">
+		            <img src="  --image url --  " width="100px;"/>
+		            <br />
+		            <sub><b>  --Diyanshi Jadeja--  </b></sub>
+		            </a>
+		</td>
 	    </td>
 	    </td>
         </tr>
