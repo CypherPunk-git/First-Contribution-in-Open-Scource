@@ -115,6 +115,13 @@
 		            </a>
 	    </td>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/maitry4">
+		            <img src="https://avatars.githubusercontent.com/u/140823694?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Maitry Parikh  </b></sub>
+		            </a>
+	    </td>
         </tr>
     </tbody>
 </table>
