@@ -115,6 +115,13 @@
 		            </a>
 	    </td>
 	    </td>
+	<td align="center">
+		            <a href="https://github.com/amanspector">
+		            <img src="https://avatars.githubusercontent.com/u/144900865?s=400&v=4" width="100px;"/>
+		            <br />
+		            <sub><b> Aman Sachla </b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
