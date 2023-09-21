@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="  https://github.com/googleasistance ">
+		            <img src="  https://avatars.githubusercontent.com/u/145648364?v=4  " width="100px;"/>
+		            <br />
+		            <sub><b>  drashti vasani  </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
