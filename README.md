@@ -116,7 +116,7 @@
 	    </td>
 		<td align="center">
 		            <a href="https://github.com/dwit17">
-		            <img src="https://avatars.githubusercontent.com/u/100549620?v=4" width="100px;"/>
+		            <img src="https://avatars.githubusercontent.com/u/130539793?v=4" width="100px;"/>
 		            <br />
 		            <sub><b>  Gosai Dwit </b></sub>
 		            </a>
