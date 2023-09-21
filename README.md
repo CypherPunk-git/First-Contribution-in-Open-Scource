@@ -120,8 +120,8 @@
 		            <sub><b>  sakshi parekh </b></sub>
 		            </a>
 		<td align="center">
-		            <a href="  --github profile url--  ">
-		            <img src="  --image url --  " width="100px;"/>
+		            <a href=" https://github.com/sakshi03parekh  ">
+		            <img src=" " width="100px;"/>
 		            <br />
 		            <sub><b>  Sakshi parekh </b></sub>
 		            </a>
