@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		   <td align="center">
+		            <a href="https://github.com/Rajdeep-Joshi">
+		            <img src="https://avatars.githubusercontent.com/u/144898278?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Rajdeep Joshi  </b></sub>
+		            </a>
+	    </td>
 	    </td>
         </tr>
     </tbody>
