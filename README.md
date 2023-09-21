@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="  https://github.com/RathodJay15 ">
+		            <img src="  https://avatars.githubusercontent.com/u/145479659?v=4  " width="100px;"/>
+		            <br />
+		            <sub><b>  Rathod Jay  </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
