@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href=" https://github.com/googleassistantishere">
+		            <img src=" https://avatars.githubusercontent.com/u/144906018?v=4 " width="100px;"/>
+		            <br />
+		            <sub><b>  Riyanshi Vasoya </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
