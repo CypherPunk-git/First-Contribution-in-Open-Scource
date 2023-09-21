@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="https://github.com/TishaRadia">
+		            <img src="https://avatars.githubusercontent.com/u/144911610?s=400&u=5135f008e0e03624e2bdd054bc0c9c7b9a468c85&v=4" width="100px;"/>
+		            <br />
+		            <sub><b>Tisha Radia</b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
