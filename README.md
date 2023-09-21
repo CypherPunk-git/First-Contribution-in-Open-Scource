@@ -114,8 +114,8 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 		    <td align="center">
-		            <a href="  --github profile url--  ">
-		            <img src="  --image url --  " width="100px;"/>
+		            <a href="  MokshadaVyas ">
+		            <img src="  https://avatars.githubusercontent.com/u/144912196?v=4 " width="100px;"/>
 		            <br />
 		            <sub><b>  --your Name--  </b></sub>
 		            </a>
