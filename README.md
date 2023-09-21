@@ -114,6 +114,12 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/lizajethani">
+		            <img src="https://avatars.githubusercontent.com/u/144886201?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Liza jethani  </b></sub>
+		            </a>
 	    </td>
         </tr>
     </tbody>
