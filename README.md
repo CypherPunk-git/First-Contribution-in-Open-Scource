@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="https://github.com/DhvaniDumaniya">
+		            <img src="  --image url --  " width="100px;"/>
+		            <br />
+		            <sub><b> dhvani dumaniya  </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
