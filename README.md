@@ -115,10 +115,10 @@
 		            </a>
 		    <td align="center">
 		           <td align="center">
-		            <a href="  --(https://github.com/MokshadaVyas)--  ">
+		            <a href="  --https://github.com/MokshadaVyas--  ">
 		            <img src="  --https://avatars.githubusercontent.com/u/144912196?v=4 --  " width="100px;"/>
 		            <br />
-		            <sub><b>  --your Name--  </b></sub>
+		            <sub><b>  --Mokshada Vyas--  </b></sub>
 		            </a>
 		</td>
 		</td>
