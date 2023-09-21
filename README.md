@@ -115,10 +115,10 @@
 		            </a>
 	    </td>
 	    <td align="center">
-		            <a href="  --github profile url--  ">
-		            <img src="  --image url --  " width="100px;"/>
+		            <a href="https://github.com/parthbavaliya1070">
+		            <img src="https://avatars.githubusercontent.com/u/144097207?v=4" width="100px;"/>
 		            <br />
-		            <sub><b>  --your Name--  </b></sub>
+		            <sub><b>  Parth Bavaliya  </b></sub>
 		            </a>
 	    </td>
         </tr>
