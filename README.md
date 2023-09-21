@@ -114,7 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
-	    </td>
+	    <td align="center">
+		            <a href="https://github.com/HetHingrajiya">
+		            <img src="https://avatars.githubusercontent.com/u/144909773?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Het Hingrajiya  </b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
