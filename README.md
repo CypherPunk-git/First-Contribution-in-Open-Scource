@@ -115,6 +115,13 @@
 		            </a>
 	    </td>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/Ravigehlot06">
+		            <img src="https://avatars.githubusercontent.com/u/144913064?s=400&v=4" width="100px;"/>
+		            <br />
+		            <sub><b> Ravi Gehlot </b></sub>
+		            </a>
+		</td>
         </tr>
     </tbody>
 </table>
