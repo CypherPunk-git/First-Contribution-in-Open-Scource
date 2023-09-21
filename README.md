@@ -114,6 +114,12 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/parthbavaliya1070">
+		            <img src="https://avatars.githubusercontent.com/u/144097207?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  Parth Bavaliya  </b></sub>
+		            </a>
 	    </td>
         </tr>
     </tbody>
