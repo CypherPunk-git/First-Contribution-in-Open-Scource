@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/DrashtiRanpariya">
+		            <img src="https://avatars.githubusercontent.com/u/111189432?s=400&u=ac01ba3e6095dd95c6ee93100fe04f7eb5c05635&v=4" width="100px;"/>
+		            <br />
+		            <sub><b>  DRASHTI RANPARIYA  </b></sub>
+		            </a>
+	    </td>
 	    </td>
         </tr>
     </tbody>
